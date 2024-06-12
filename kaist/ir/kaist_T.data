@@ -1,0 +1,5 @@
+classes= 1
+train  =G:/kaist1200/T/train.txt
+valid  =G:/kaist1200/T/val.txt
+names =G:/kaist1200/T/kaist_T.names
+backup = backup/

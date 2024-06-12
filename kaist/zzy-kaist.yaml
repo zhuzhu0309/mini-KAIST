@@ -1,0 +1,7 @@
+train_rgb: F:/H7M_DATA/zzy-kaist/trainrgb.txt
+val_rgb: F:/H7M_DATA/zzy-kaist/valrgb.txt
+train_ir: F:/H7M_DATA/zzy-kaist/trainir.txt
+val_ir: F:/H7M_DATA/zzy-kaist/valir.txt
+
+nc: 1
+names: [ 'preson']

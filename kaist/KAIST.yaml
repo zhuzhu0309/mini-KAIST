@@ -1,0 +1,7 @@
+train: ./KAIST/visible_train.txt
+val: ./KAIST/visible_test.txt
+# train_ir: ./KAIST/infrared_train.txt
+# val_ir: ./KAIST/infrared_test.txt
+
+nc: 1
+names: [ 'preson']
